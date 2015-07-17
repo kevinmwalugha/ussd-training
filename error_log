@@ -1,0 +1,6 @@
+[17-Jul-2015 13:21:03 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL), expecting ')' in /home/esonstra/public_html/ussd/index.php on line 36
+[17-Jul-2015 13:38:15 Africa/Nairobi] PHP Parse error:  syntax error, unexpected end of file in /home/esonstra/public_html/ussd/index.php on line 20
+[17-Jul-2015 13:38:16 Africa/Nairobi] PHP Parse error:  syntax error, unexpected end of file in /home/esonstra/public_html/ussd/index.php on line 20
+[17-Jul-2015 13:40:47 Africa/Nairobi] PHP Parse error:  syntax error, unexpected end of file in /home/esonstra/public_html/ussd/index.php on line 20
+[17-Jul-2015 13:40:47 Africa/Nairobi] PHP Parse error:  syntax error, unexpected end of file in /home/esonstra/public_html/ussd/index.php on line 20
+[17-Jul-2015 14:56:40 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/esonstra/public_html/ussd/index.php on line 8
